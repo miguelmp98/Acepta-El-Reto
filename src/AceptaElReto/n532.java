@@ -1,5 +1,4 @@
 package AceptaElReto;
-
 import java.util.Scanner;
 /*
  * @autor miguelmp98
