@@ -1,7 +1,10 @@
 package AceptaElReto;
 
 import java.util.Scanner;
-
+/*
+ * @autor miguelmp98
+ * 
+ * */
 public class n532 {
     public static void main(String[] args) {
 
